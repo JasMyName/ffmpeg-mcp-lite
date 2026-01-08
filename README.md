@@ -60,6 +60,12 @@ Integrate FFmpeg with Claude, Dive, and other MCP-compatible AI systems. Convert
 - Interval or count-based extraction
 - JPG, PNG, BMP output
 
+### 📝 **Subtitles**
+- Burn-in SRT/ASS/VTT subtitles
+- Multiple styles (outline, shadow, background, glow)
+- Customizable font size
+- Works great with Whisper MCP
+
 </td>
 </tr>
 </table>
@@ -301,6 +307,26 @@ Extract frames as images
 </tr>
 </table>
 
+### 📝 Subtitles
+
+<table>
+<tr>
+<th width="30%">Tool</th>
+<th width="70%">Description</th>
+</tr>
+<tr>
+<td><code>ffmpeg_add_subtitles</code></td>
+<td>
+
+Burn-in subtitles to video (hardcode)
+- **Parameters**: `file_path`, `subtitle_path`, `style`, `font_size`, `output_path`
+- **Formats**: SRT, ASS, VTT
+- **Styles**: outline, shadow, background, glow
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 💡 Usage Examples
@@ -360,6 +386,14 @@ Extract frames as images
 "Concatenate these three videos into one"
 ```
 
+### Add Subtitles
+
+```
+"Add subtitles.srt to video.mp4"
+"Burn in Chinese subtitles with shadow style"
+"Add subtitles with font size 32 and glow effect"
+```
+
 ---
 
 ## 🔧 Configuration
@@ -403,7 +437,7 @@ Extract frames as images
 
 - ✅ **Async Processing**: Non-blocking FFmpeg execution
 - ✅ **Type Safe**: Full type hints with mypy validation
-- ✅ **Well Tested**: 26 test cases with pytest
+- ✅ **Well Tested**: 31 test cases with pytest
 - ✅ **Cross Platform**: Works on Windows, macOS, Linux
 - ✅ **Modular Design**: One file per tool
 

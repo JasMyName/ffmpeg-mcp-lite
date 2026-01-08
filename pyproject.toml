@@ -1,6 +1,6 @@
 [project]
 name = "ffmpeg-mcp-lite"
-version = "0.1.0"
+version = "0.2.0"
 description = "MCP server providing video and audio processing capabilities through FFmpeg"
 readme = "README.md"
 license = { text = "MIT" }
